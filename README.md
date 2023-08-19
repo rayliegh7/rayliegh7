@@ -26,26 +26,17 @@ Here are some of the skills and technologies I've acquired on my journey:
 
 Here are a few projects I've worked on:
 
-### Project 1: Customer Churn Prediction
+### Project 1: Web scarping
 
 - **Description:** Predicted customer churn for a telecom company using machine learning algorithms.
-- **GitHub Repository:** [Link to GitHub](https://github.com/yourusername/customer-churn-prediction)
+- **GitHub Repository:** [Link to GitHub](https://github.com/rayliegh7/web-scraping-)
 - **Demo:** [Link to Demo](https://yourdemo.com)
 
-![Project 1 Screenshot](screenshot.png)
 
-### Project 2: E-commerce Sales Analysis
 
-- **Description:** Analyzed sales data to identify trends and improve revenue.
-- **GitHub Repository:** [Link to GitHub](https://github.com/yourusername/ecommerce-sales-analysis)
-- **Demo:** [Link to Demo](https://yourdemo.com)
-
-![Project 2 Screenshot](screenshot.png)
 
 ## Contact Me
 
-- LinkedIn: [Your LinkedIn Profile URL](https://linkedin.com/in/yourusername)
-- Twitter: [Your Twitter Profile URL](https://twitter.com/yourusername)
-- Portfolio: [Your Portfolio Website URL](https://yourportfolio.com)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/suryakant-ghodake-585514245)
 
 Feel free to reach out, connect, or collaborate on exciting projects!
