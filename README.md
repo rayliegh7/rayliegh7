@@ -1,16 +1,51 @@
-### Hi there 👋
+# Hi, I'm Suryakant Ghodke 👋
 
-<!--
-**rayliegh7/rayliegh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a recent graduate in B.Sc.IT with a strong passion for data science and machine learning. Here's a little about me:
 
-Here are some ideas to get you started:
+- 🎓 Graduated from Mumbai University in 2022 with a CGPA of 8.98.
+- 💻 Completed a Machine Learning Bootcamp, where I learned Python from scratch and worked on end-to-end Python projects.
+- 📊 Explored essential Python libraries: NumPy, Pandas, Seaborn, and Matplotlib.
+- 📈 Dived into statistics, a crucial foundation for data science and machine learning.
+- 🤖 Currently pursuing a Full-Stack Data Science program with mentorship from Krish Naik.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+Here are some of the skills and technologies I've acquired on my journey:
+
+- **Programming Languages:** Python (Proficient)
+- **Data Manipulation:** NumPy, Pandas
+- **Data Visualization:** Matplotlib, Seaborn
+- **Statistics:** Hypothesis Testing, Descriptive Statistics
+- **Machine Learning:** Regression, Classification, Clustering, Neural Networks (basic understanding)
+- **Tools:** Jupyter Notebook, Git, GitHub
+- **Full Stack:** Frontend (HTML, CSS, JavaScript), Backend (Node.js, Express)
+- **Databases:** MongoDB
+- **Frameworks:** Flask
+
+## Projects
+
+Here are a few projects I've worked on:
+
+### Project 1: Customer Churn Prediction
+
+- **Description:** Predicted customer churn for a telecom company using machine learning algorithms.
+- **GitHub Repository:** [Link to GitHub](https://github.com/yourusername/customer-churn-prediction)
+- **Demo:** [Link to Demo](https://yourdemo.com)
+
+![Project 1 Screenshot](screenshot.png)
+
+### Project 2: E-commerce Sales Analysis
+
+- **Description:** Analyzed sales data to identify trends and improve revenue.
+- **GitHub Repository:** [Link to GitHub](https://github.com/yourusername/ecommerce-sales-analysis)
+- **Demo:** [Link to Demo](https://yourdemo.com)
+
+![Project 2 Screenshot](screenshot.png)
+
+## Contact Me
+
+- LinkedIn: [Your LinkedIn Profile URL](https://linkedin.com/in/yourusername)
+- Twitter: [Your Twitter Profile URL](https://twitter.com/yourusername)
+- Portfolio: [Your Portfolio Website URL](https://yourportfolio.com)
+
+Feel free to reach out, connect, or collaborate on exciting projects!
