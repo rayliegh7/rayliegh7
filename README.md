@@ -30,13 +30,13 @@ Here are a few projects I've worked on:
 
 - **Description:** Predicted customer churn for a telecom company using machine learning algorithms.
 - **GitHub Repository:** [Link to GitHub](https://github.com/rayliegh7/web-scraping-)
-- **Demo:** [Link to Demo](https://yourdemo.com)
+
 
 
 
 
 ## Contact Me
 
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/suryakant-ghodake-585514245)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/suryakantghodake)
 
 Feel free to reach out, connect, or collaborate on exciting projects!
