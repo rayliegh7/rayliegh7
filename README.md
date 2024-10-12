@@ -1,4 +1,4 @@
-# Hi, I'm Suryakant Ghodake 👋
+# Hi, I'm Suryakant Ghodke 👋
 
 I'm a recent graduate in B.Sc.IT with a strong passion for data science and machine learning. Here's a little about me:
 
