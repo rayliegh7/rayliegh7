@@ -18,10 +18,9 @@ Here are some of the skills and technologies I've acquired on my journey:
 - **Data Manipulation:** NumPy, Pandas
 - **Data Visualization:** Matplotlib, Seaborn
 - **Statistics:** Hypothesis Testing, Descriptive Statistics
-- **Machine Learning:** Regression, Classification, Clustering, Neural Networks (basic understanding)
+- **Machine Learning:** Regression, Classification, Clustering,supervised learning,unsupervised learning Neural Networks (basic understanding)
 - **Tools:** Jupyter Notebook, Git, GitHub
-- **Full Stack:** Frontend (HTML, CSS, JavaScript), Backend (Node.js, Express)
-- **Databases:** MongoDB
+- **Databases:** MongoDB,SQL server
 - **Frameworks:** Flask
 
 ## Projects
