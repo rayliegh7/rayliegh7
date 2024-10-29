@@ -1,3 +1,4 @@
+[![GitHub Streak](https://streak-stats.demolab.com?user=rayliegh7&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 # Hi, I'm Suryakant Ghodke 👋
 
 I'm a recent graduate in B.Sc.IT with a strong passion for data science and machine learning. Here's a little about me:
